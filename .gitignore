@@ -32,3 +32,5 @@ replay_pid*
 /target/promptmanager-0.0.1-SNAPSHOT.jar.original
 /target/surefire-reports/TEST-com.ownllm.back.promptmanager.ApplicationTests.xml
 /target/surefire-reports/TEST-com.ownllm.back.promptmanager.ControllerTest.xml
+/.idea/
+/.mvn/
