@@ -33,4 +33,3 @@ replay_pid*
 /target/surefire-reports/TEST-com.ownllm.back.promptmanager.ApplicationTests.xml
 /target/surefire-reports/TEST-com.ownllm.back.promptmanager.ControllerTest.xml
 /.idea/
-/.mvn/
